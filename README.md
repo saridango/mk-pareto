@@ -10,5 +10,6 @@ Key features:
 Dataset:
 jfmario. (2023). Mario Kart 8 Deluxe Build Stats [Data set]. GitHub. https://github.com/jfmario/mario-kart-8-deluxe-builds
 
-
+Contributors:
+Brian Kurzeja (bkur808), Nailea Ibarra, Miranda Hernandez, Sarida Ngo (saridango)
 
