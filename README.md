@@ -1,4 +1,4 @@
-# mk-pareto
+#Pareto-Optimal Mario Kart Combinations for Different Tracks
 This project explores Pareto-optimal kart setups in Mario Kart using the NSGA-II genetic algorithm, developed as part of CSCI 165: Bio-Inspired Machine Learning. By analyzing driver, vehicle, tire, and glider combinations, the system identifies optimal builds tailored to specific track types (e.g., long-straights, curvy, off-road).
 
 Key features:
